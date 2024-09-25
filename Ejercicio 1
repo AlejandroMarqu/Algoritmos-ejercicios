@@ -1,1 +1,4 @@
-
+Inicio
+nombre = 0
+Leer nombre
+Mostrar mensaje Hola nombre
