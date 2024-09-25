@@ -1,0 +1,6 @@
+Inicio
+minutos = 0
+horas = 0
+
+Leer minutos
+horas = minutos / 60
