@@ -1,1 +1,16 @@
+Inicio
+numero1 = 0
+numero2 = 0
+suma = 0
+resta = 0
+division = 0
+multiplicacion = 0
 
+leer numero1
+leer numero2
+suma = numero1 + numero2
+resta = numero1 - numero2
+multiplicacion = numero1 * numero2
+division = numero1 / numero2
+Mostrar |Suma = suma|Resta = resta|Division = division|Multiplicacion = multiplicacion|
+Fin
