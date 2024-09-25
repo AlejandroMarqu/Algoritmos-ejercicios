@@ -1,8 +1,11 @@
 Inicio
 cateto1 = 0
 cateto2 = 0
-alcuadrado = 0
-
+sum = 0
+raiz_cuadrada = 0
 leer cateto1
 leer cateto2
-
+suma = cateto1^2 + cateto2^2
+raiz_cuadrada = RaizCuadrada(suma)
+mostrar raiz_cuadrada
+Fin
