@@ -1,0 +1,8 @@
+Inicio
+cateto1 = 0
+cateto2 = 0
+alcuadrado = 0
+
+leer cateto1
+leer cateto2
+
